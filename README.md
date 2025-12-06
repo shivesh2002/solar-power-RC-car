@@ -3,7 +3,7 @@
 A renewable energy-powered remote-controlled car featuring intelligent battery management, 
 solar charging, and motor control system. Built as B.Tech final year project (May 2024).
 
-![Project Photo](images/solar-car-main.jpg)
+![Project Photo](imagessolar-car-main.jpg.png)
 
 ---
 
